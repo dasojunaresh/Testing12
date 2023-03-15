@@ -1,3 +1,0 @@
-Hi My name naresh i am testing git
-seconfd time testing
-line number 3 added from git
